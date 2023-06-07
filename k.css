@@ -1,0 +1,122 @@
+h1{
+    background-color: cornflowerblue;
+    background-size: contain;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+b{
+    color: aqua;
+}
+h3{
+    text-indent: 50px;
+    color: white;
+}
+h5{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.header{
+    width: 100%;
+    text-align: center;
+}
+
+.button{
+    height: 36px;
+    background-color: gray;
+    min-width: 80px;
+    border: 1px solid transparent;
+    color: #dadada;
+
+}
+.ko{
+    text-align: center;
+    width: 100%;
+}
+
+.KME{
+    background-color:black;
+    color: white;
+    min-width: 80px;
+    height: 50px;
+    border: 1px solid transparent;
+    margin: 0;
+    cursor: pointer;
+}
+.kl{
+    background-color: black;
+    color: white;
+    min-width: 80px;
+    height: 50px;
+    border: 1px solid transparent;
+    margin: 0;
+    cursor: pointer;
+}
+.k{
+    text-align: center;
+    width: 100%;
+}
+.img{
+    min-width: 100px;
+    height: 60;
+    border: 1px solid transparent;
+    margin: 0;
+}
+.ji{
+    color: red;
+}
+body{
+  background-image: url(https://www.elle.vn/wp-content/uploads/2017/07/25/hinh-anh-dep-1.jpg);
+
+
+}
+h6{
+    color: white;
+    text-align: center;
+}
+.ten{
+    color: white;
+    text-align: center;
+}
+.khoi{
+    text-align: center;
+    width: 100%;
+}
+.lp{
+    background-color: red;
+    color: white;
+    height: 40px;
+    min-width: 90px;
+    border:  1px solid transparent;
+    margin: 0;
+    cursor: pointer;
+}
+.ad{
+    text-align: center;
+    width: 100%;
+}
+.huy{
+    color: white;
+}
+.gf{
+    background-color: black;
+    color: white;
+}
+.rf{
+    text-align: center;
+    width: 100%;
+    background-color: antiquewhite;
+}
+.bg{
+    color: white;
+    background-color: aqua;
+    cursor: pointer;
+    min-width: 90px;
+    height: 50px;
+}
+.fd{
+    width: 300px;
+    height: 20px;
+}
